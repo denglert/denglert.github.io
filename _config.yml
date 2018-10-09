@@ -1,2 +1,4 @@
 name: David Englert
 markdown: kramdown
+
+permalink: /blog/:year/:month/:day/:title
